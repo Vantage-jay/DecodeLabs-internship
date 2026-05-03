@@ -1,2 +1,0 @@
-# Shopeasy
-E-commerce Website 
