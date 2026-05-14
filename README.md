@@ -1,4 +1,4 @@
-# DecodeLabs Full Stack Internship - Batch 2026
+# DecodeLabs Full Stack Internship  Batch 2026
 
 ## About
 This repository contains all projects completed during my Full Stack Development internship at DecodeLabs. Each project builds on the previous one, progressing from frontend to backend to database integration.
@@ -32,4 +32,4 @@ Information Systems Student | FUNAAB
 DecodeLabs Intern | Batch 2026
 
 ## Contact
-- Email: youremail@gmail.com
+- Email: sjesuferanmi@gmail.com
