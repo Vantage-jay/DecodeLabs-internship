@@ -30,7 +30,7 @@ This repository contains all projects completed during my Full Stack Development
 Jesuferanmi Ojatunwase
 Information Systems Student
 FUNAAB DecodeLabs Intern
- Batch 2026
+Batch 2026
 
 ## Contact
 - Email: sjesuferanmi@gmail.com
